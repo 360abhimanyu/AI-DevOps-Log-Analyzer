@@ -1,0 +1,5 @@
+2026-10-13T10:15:01Z ERROR Database connection failed: connection refused
+2026-10-13T10:15:02Z ERROR Connection timeout after 30 seconds
+2026-10-13T10:15:03Z WARN Retrying database connection (attempt 2)
+2026-10-13T10:15:04Z ERROR payment-api: readiness probe failed
+2026-10-13T10:15:05Z INFO Retrying in 5 seconds
