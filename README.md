@@ -1,7 +1,9 @@
 # AI DevOps Log Analyzer
 
 A local-first Streamlit application that uses an open-weight model served by Ollama to analyze Linux, Docker, and Kubernetes logs.
+
 ![AI DevOps Log Analyzer](image.png)
+
 ## Features
 
 - Paste logs or upload `.log` / `.txt` files
